@@ -39,7 +39,7 @@ Modern Navigation: Custom-built overlay Navbar with scroll-triggered visibility.
     Clone the repository:
 
     Bash
-    git clone https://github.com/PeterMina/Portfolio.git
+    git clone https://github.com/PeterMina/petermina.github.io.git
     Install dependencies:
 
     Bash
